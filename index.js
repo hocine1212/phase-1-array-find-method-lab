@@ -6,5 +6,3 @@ function superbowlWin(record) {
     return win.year;
   }
 }
-
-console.log(superbowlWin(record));
